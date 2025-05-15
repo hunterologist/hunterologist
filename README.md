@@ -16,7 +16,7 @@ I’m open to working with researchers, engineers, and security teams on high-im
 📫 Reach me:
 - Email: [hunterologist@gmail.com](mailto:hunterologist@gmail.com)
 - Instagram: [@hunterologist](https://instagram.com/hunterologist)
-- - GitHub: [@hunterologist](https://github.com/hunterologist)
+- GitHub: [@hunterologist](https://github.com/hunterologist)
 - Blog: [hunterologist.github.io](https://hunterologist.github.io)
 
 > _“Find the bug. Exploit the flaw. Build the knowledge.”_
