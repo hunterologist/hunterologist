@@ -1,4 +1,4 @@
-## 👋 Welcome to my domain — I'm @hunterologist
+## 🎯 Targets change. The hunt doesn’t — Welcome to @Hunterologist
 
 🎯 **Offensive Security | Vulnerability Research | Red Teaming**
 
