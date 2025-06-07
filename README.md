@@ -4,14 +4,15 @@
 
 I specialize in discovering, exploiting, and documenting vulnerabilities across modern web stacks, APIs, and infrastructure. My approach is meticulous, data-driven, and focused on practical impact. I believe in clean code, responsible disclosure, and pushing the limits of what's possible in cybersecurity.
 
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg"> <br>
 
 ## My Skills 👨‍💻🛡️
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python" height="45" />
+<img src="https://skillicons.dev/icons?i=html,js,python,php,golang" height="45" />
 <img src="https://skillicons.dev/icons?i=mysql,docker,linux,git" height="45" />
 <img src="https://skillicons.dev/icons?i=bash,nginx,powershell" height="45" />
 <img src="https://skillicons.dev/icons?i=github" height="45" />
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg"> <br>
+
 
 
 🚀 **Currently Diving Deep Into:**
