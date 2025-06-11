@@ -2,7 +2,7 @@
 
 🎯 **Offensive Security | Vulnerability Research | Red Teaming**
 
-I specialize in discovering, exploiting, and documenting vulnerabilities across modern web stacks, APIs, and infrastructure. My approach is meticulous, data-driven, and focused on practical impact. I believe in clean code, responsible disclosure, and pushing the limits of what's possible in cybersecurity.
+I specialize in discovering, exploiting, and documenting vulnerabilities across modern web stacks, APIs, and infrastructure. My approach is meticulous, data-driven, and focused on practical impact. I believe in clean code, responsible disclosure, and pushing the limits of what's possible in cybersecurity
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg"> <br>
 
